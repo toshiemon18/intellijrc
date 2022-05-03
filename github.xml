@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account name="toshiaki-seino" id="66f914cc-b627-4451-a426-8af626cfb7d6">
+      <server useHttp="false" host="git.gree-dev.net" />
+    </account>
+  </component>
+</application>
