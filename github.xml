@@ -3,5 +3,8 @@
     <account name="toshiaki-seino" id="66f914cc-b627-4451-a426-8af626cfb7d6">
       <server useHttp="false" host="git.gree-dev.net" />
     </account>
+    <account name="toshiemon18" id="4b72b730-25aa-4353-9550-4c77308b3abb">
+      <server host="github.com" />
+    </account>
   </component>
 </application>
